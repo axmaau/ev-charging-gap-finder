@@ -22,7 +22,7 @@ Analyzes U.S. EV charging infrastructure using open data from the Department of 
 - **Equity-ready (optional):** ACS layers (e.g., renters/no-garage proxy) to contextualize siting.
 - **Ops hygiene:** Daily snapshot option, CI hooks, and clear METHODS/NOTICE for data provenance.
 
-> **Why it matters:** Planners and operators don’t just need dots on a map—they need a ranked, defensible list of *where the next few sites unlock the most benefit*. This repo delivers that, with code you can audit and extend.
+> **Why it matters:** Planners and operators don’t just need dots on a map, they need a ranked, defensible list of *where the next few sites unlock the most benefit*. This repo delivers that, with code you can audit and extend.
 
 
 
