@@ -1,0 +1,28 @@
+NOTICE
+
+This project uses or derives insights from the following third-party resources:
+- U.S. Department of Energy – Alternative Fuels Data Center (AFDC)
+- National Renewable Energy Laboratory – EVI-Pro Lite
+- U.S. Census Bureau – American Community Survey (ACS)
+- Federal Highway Administration – Alternative Fuel Corridors (AFC)
+
+Data remains subject to the terms, licenses, and updates provided by each source.
+No endorsement by the above organizations is implied. Any findings, opinions, or
+recommendations expressed in this repository are those of the authors.
+
+Licensing:
+- Code in this repository is licensed under the MIT License (see LICENSE).
+- Documentation and images are licensed under CC BY 4.0 unless noted.
+- Third-party datasets are NOT relicensed here; consult their respective terms
+  before redistribution or commercial use.
+
+Trademarks and Logos:
+- All trademarks, service marks, and logos remain the property of their owners.
+  Use does not imply endorsement.
+
+Attribution:
+- If you reuse or extend this work, please retain this NOTICE and cite the data
+  sources in your documentation and/or user interfaces.
+
+Contact: <> [to be added]
+Snapshot date(s): <> (AFDC), <> (ACS), <> (AFC), <> (EVI-Pro Lite) [to be added]
